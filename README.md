@@ -2,15 +2,13 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
+[![banner-982162-1920-e1485886357100.jpg](https://i.postimg.cc/k57V18WR/banner-982162-1920-e1485886357100.jpg)](https://postimg.cc/zyPX3ytq)
 
 I am an electronic engineer, with extensive experience in the fields of networking, linux and who is exploring data analysis while the world facilitates the experience, I put at your disposal my engineering and design thinking skills. ;)
  
 🔭 I am planning a Project **Monitor the energy consumption of my house**.
  
- 🌱 🌱 I am currently learning data analysis with python and R
+🌱 I am currently learning data analysis with python and R
  
  :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
