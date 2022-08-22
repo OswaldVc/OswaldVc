@@ -43,10 +43,6 @@ I am an electronic engineer, with extensive experience in the fields of networki
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
-
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
-
 ---
 
 
