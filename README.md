@@ -2,7 +2,7 @@
 
 ---
 
-[![banner-982162-1920-e1485886357100.jpg](https://i.postimg.cc/k57V18WR/banner-982162-1920-e1485886357100.jpg)](https://postimg.cc/zyPX3ytq)
+[![banner-982162-1920-e1485886357100.jpg](https://i.postimg.cc/KzbFrvdy/banner-982162-1920-e1485886357100.jpg)](https://postimg.cc/sBTt3yjn)
 
 I am an electronic engineer, with extensive experience in the fields of networking, linux and who is exploring data analysis while the world facilitates the experience, I put at your disposal my engineering and design thinking skills. ;)
  
