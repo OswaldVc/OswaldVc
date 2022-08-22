@@ -8,7 +8,7 @@
 
 I am an electronic engineer, with extensive experience in the fields of networking, linux and who is exploring data analysis while the world facilitates the experience, I put at your disposal my engineering and design thinking skills. ;)
  
- 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
+🔭 I am planning a Project **Monitor the energy consumption of my house**.
  
  🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
  
