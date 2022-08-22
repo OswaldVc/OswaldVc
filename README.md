@@ -10,7 +10,7 @@ I am an electronic engineer, with extensive experience in the fields of networki
  
 🔭 I am planning a Project **Monitor the energy consumption of my house**.
  
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
+ 🌱 🌱 I am currently learning data analysis with python and R
  
  :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
