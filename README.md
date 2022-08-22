@@ -10,13 +10,11 @@ I am an electronic engineer, with extensive experience in the fields of networki
  
 🌱 I am currently learning data analysis with python and R
  
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
+👯 I'm looking to collaborate for a project based on sound recognition, to be able to classify them and integrate it into a sound level meter
  
- 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
+🤔 Busco ayuda con una de mis grades pasiones, los Citroen saxos vts 16V.
  
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
- 
- 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
+💬 Ask me about electronics, computer networks, data analysis and linux.
 
 
 ![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
