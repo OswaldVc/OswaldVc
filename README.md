@@ -4,18 +4,8 @@
 
 [![banner-982162-1920-e1485886357100.jpg](https://i.postimg.cc/KzbFrvdy/banner-982162-1920-e1485886357100.jpg)](https://postimg.cc/sBTt3yjn)
 
-I am an electronic engineer, with extensive experience in the fields of networking, linux and who is exploring data analysis while the world facilitates the experience, I put at your disposal my engineering and design thinking skills. ;)
+Electronic engineer with extensive experience in the area of ​​telecommunications, in the administration of personnel and interaction with clients, process of assurance and provisioning of the Fiber Optic platform and assurance of the satellite television service and UMTS networks. With knowledge in programming languages such as JavaScript, NodeJS, Python and Machine Learning, and libraries such as Bootstrap, ExpressJS and Angular; and management of office tools such as Word, Excel, operating systems such as Windows, Linux and MacOS.
  
-🔭 I am planning a Project **Monitor the energy consumption of my house**.
- 
-🌱 I am currently learning data analysis with python and R
- 
-👯 I'm looking to collaborate for a project based on sound recognition, to be able to classify them and integrate it into a sound level meter
- 
-🤔 Busco ayuda con una de mis grades pasiones, los Citroen saxos vts 16V.
- 
-💬 Ask me about electronics, computer networks, data analysis and linux.
-
 
 ### Tech & Tools Preference
 
