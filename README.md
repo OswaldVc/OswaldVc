@@ -2,9 +2,7 @@
 
 ---
 
-https://www.google.com/search?q=citroen+saxo+vts+16v+rally+banner&tbm=isch&ved=2ahUKEwie-dj7ssz7AhVnxykDHR76A-sQ2-cCegQIABAA&oq=citroen+saxo+vts+16v+rally+banner&gs_lcp=CgNpbWcQAzoECAAQQzoECAAQHlD8B1jtEGDMEmgAcAB4AIAB1wGIAcQJkgEFMC42LjKYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=aVCCY94g546nyQ-e9I_YDg&bih=769&biw=1400&client=opera&hs=kai#imgrc=y5u2TrTe1uke4M&imgdii=Pba410kHZ-CqhM
-
-Ingeniero electrónico con amor exponencial por los sistemas operativos basados en Linux.
+Ingeniero electrónico con amor exponencial por los sistemas operativos basados en Linux y las maquinas citroen saxo VTS 16V.
 
 
 ### Otros Languajes:
