@@ -11,7 +11,7 @@
 
 <img align="left" src="https://github.com/OswaldVc/OswaldVc/blob/main/animacion.gif" alt="No se encontro la imagen" width="310" />
 <hr>
-https://github.com/OswaldVc/OswaldVc/blob/main/animacion.gif
+
 ```
 Quien soy:
 -------------------------
