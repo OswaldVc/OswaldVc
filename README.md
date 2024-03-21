@@ -1,8 +1,7 @@
-
 <h1 align="center">
 ¡Bienvenido a mi Github!
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://komarev.com/ghpvc/?username=OswaldVc&label=Visitas&color=0e75b6&style=flat" align='right' alt="Clyzer" />
+ <img src="https://komarev.com/ghpvc/?username=Clyzer&label=Visitas&color=0e75b6&style=flat" align='right' alt="Clyzer" />
 <br/>
 
 
@@ -10,17 +9,19 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=380&height=45&lines=https%3A%2F%2Fgithub.com%2FClyzer;Full+Stack+Developer;Amante+de+las+IA;Siempre+actualiz%C3%A1ndome" alt="SVG bienvenida" />
 </p>
 
-<img align="left" src="https://github.com/OswaldVc/OswaldVc/blob/master/animacion.gif?raw=true" alt="No se encontro la imagen" width="310" />
+<img align="left" src="https://github.com/Clyzer/Clyzer/blob/master/animacion.gif?raw=true" alt="No se encontro la imagen" width="310" />
 <hr>
 
 ```
-💻 Soy Ingeniero Electrónico 
-👨🏽‍💻 Actualmente estoy en busqueda de trabajo en las IT, especialmente en analisis de datos.
-📝 Me encantan las IA, GPT-4 cambió la industria.
-🔭 Trabajando en proyectos de análisis de datos
-🌱 Aprendiendo sobre otras IA increibles como DALL-E 2 - aprendisaje profundo
-🌟 Lenguajes principales: Python y Javascript
-🎵 Amo la musica tranquila y los sonidos de lluvia.
+Clyzer@github
+-------------------------
+💻 Soy un Full Stack Developer que aprendio de manera autodidacta
+👨🏽‍💻 Actualmente estoy en busqueda de trabajo en las IT
+📝 Me encantan las IA, GPT-4 cambió la industria
+🔭 Trabajando en como utilizar las IA narrativas en los videojuegos
+🌱 Aprendiendo sobre otras IA increibles como DALL-E 2
+🌟 Lenguajes principales: Java y Javascript
+🎵 Amo la musica tranquila y los sonidos de lluvia
 ```
 <hr>
 
