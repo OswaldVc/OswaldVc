@@ -21,7 +21,7 @@ Quien soy:
 🔭 Trabajo actualmente en troubleshooting de redes de conectividad IP/MPLS 
 🌱 Aprendiendo sobre otras IA increibles como DALL-E 2
 🌟 Lenguajes principales: Python y Javascript
-🎵 Amo la musica tranquila
+🎵 Amo la música tranquila
 ```
 <hr>
 
