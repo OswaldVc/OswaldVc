@@ -13,14 +13,14 @@
 <hr>
 
 ```
-OswaldVc@github
+Quien soy:
 -------------------------
-💻 Soy un Full Stack Developer que aprendio de manera autodidacta
-👨🏽‍💻 Actualmente estoy en busqueda de trabajo en las IT
-📝 Me encantan las IA, GPT-4 cambió la industria
-🔭 Trabajando en como utilizar las IA narrativas en los videojuegos
+💻 Soy ingeniero electrónico.
+👨🏽‍💻 Actualmente estoy en busqueda de proyectos en las IT.
+📝 Me encantan las IA, GPT-4 cambió la industria.
+🔭 Trabajando actualmente en el troubleshooting de redes de conectividad IP/MPLS 
 🌱 Aprendiendo sobre otras IA increibles como DALL-E 2
-🌟 Lenguajes principales: Java y Javascript
+🌟 Lenguajes principales: Python y Javascript
 🎵 Amo la musica tranquila y los sonidos de lluvia
 ```
 <hr>
