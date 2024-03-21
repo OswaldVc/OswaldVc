@@ -1,5 +1,5 @@
 <h1 align="center">
-¡Bienvenido a mi Github!
+ ¡Bienvenido a mi Github!
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9tZno2MDd0Y2diYTIybHI5dmZxbXJtY3pld21tcXlzdHQ4ZmR4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="30"></h1>
  <img src="https://komarev.com/ghpvc/?username=Clyzer&label=Visitas&color=0e75b6&style=flat" align='right' alt="Clyzer" />
 <br/>
@@ -55,15 +55,3 @@ Quien soy:
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%2300ED64.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white"></a>
 </p>
-
-## Estadisticas de Github
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Clyzer&show_icons=true&theme=algolia&locale=es" alt="Estadisticas Github" width="450"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clyzer&layout=compact&langs_count=8&theme=algolia&locale=es" alt="Lenguajes Github" width="450"/>
-</p>
-
-
-
-
-
