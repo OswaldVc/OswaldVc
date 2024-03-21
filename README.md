@@ -13,7 +13,7 @@
 <hr>
 
 ```
-Clyzer@github
+OswaldVc@github
 -------------------------
 💻 Soy un Full Stack Developer que aprendio de manera autodidacta
 👨🏽‍💻 Actualmente estoy en busqueda de trabajo en las IT
