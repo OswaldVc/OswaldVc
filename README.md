@@ -9,7 +9,7 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=380&height=45&lines=https%3A%2F%2Fgithub.com%2FOswaldVc;Ingeniería+de+datos;Amante+de+las+IA;Siempre+actualiz%C3%A1ndome" alt="SVG bienvenida" />
 </p>
 
-<img align="left" src="https://github.com/OswaldVc/OswaldVc/blob/main/gif.gif" alt="No se encontro la imagen" width="300" />
+<img align="left" src="https://github.com/OswaldVc/OswaldVc/blob/main/gif.gif" alt="No se encontro la imagen" width="800" />
 <hr>
 
 ```
