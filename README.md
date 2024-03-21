@@ -18,7 +18,7 @@ Quien soy:
 💻 Soy ingeniero electrónico.
 👨🏽‍💻 Actualmente estoy en busqueda de proyectos en industrias IT.
 📝 Me encantan las IA, GPT-4 cambió la industria.
-🔭 Trabajando actualmente en el troubleshooting de redes de conectividad IP/MPLS 
+🔭 Trabajo actualmente en troubleshooting de redes de conectividad IP/MPLS 
 🌱 Aprendiendo sobre otras IA increibles como DALL-E 2
 🌟 Lenguajes principales: Python y Javascript
 🎵 Amo la musica tranquila y los sonidos de lluvia
