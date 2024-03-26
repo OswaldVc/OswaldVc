@@ -15,13 +15,14 @@
 ```
 Quien soy:
 -------------------------
-💻 Soy ingeniero electrónico.
-👨🏽‍💻 Busco proyectos en industrias IT.
-📝 Me encantan las IA.
-🔭 Trabajo en troubleshooting de IP/MPLS 
+💻 Soy ingeniero electrónico con gusto por el hardware y software.
+👨🏽‍💻 Me gusta el desarrollo de proyectos en industrias IT.
+🔭 Trabajo en troubleshooting de IP/MPLS
+🌟 Lenguajes: Python, Javascript, C++
 🌱 Aprendiendo sobre otras IA
-🌟 Lenguajes: Python y Javascript
-🎵 Amo la música tranquila
+🎵 Amo la música suave.
+
+
 ```
 <hr>
 
