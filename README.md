@@ -15,8 +15,8 @@
 ```
 Quien soy:
 -------------------------
-💻 Soy ingeniero electrónico con gusto por el hardware y software.
-👨🏽‍💻 Me gusta el desarrollo de proyectos en industrias IT.
+💻 Soy ingeniero electrónico con gusto por software.
+👨🏽‍💻 Me gusta el desarrollo de proyectos IT.
 🔭 Trabajo en troubleshooting de IP/MPLS
 🌟 Lenguajes: Python, Javascript, C++
 🌱 Aprendiendo sobre otras IA
