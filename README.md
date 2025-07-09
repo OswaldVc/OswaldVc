@@ -86,8 +86,6 @@ Automatización de pruebas, detección de fallas y optimización de tráfico en 
 
 ---
 
-<h2 align="center">⚡ "El conocimiento es poder, pero la <strong>ingeniería</strong> lo convierte en <em>soluciones reales</em>." ⚙️</h2>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0C8ACB&center=true&vCenter=true&multiline=true&width=850&height=80&lines=El+conocimiento+es+poder...;...pero+la+ingenier%C3%ADa+lo+convierte+en+soluciones+reales." alt="Typing SVG" />
 </p>
