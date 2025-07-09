@@ -7,7 +7,7 @@
 
 <!-- Animación profesional -->
 <p align="center">
-  <img src="https://lottie.host/29f7be83-5eb3-4c33-84a6-249ec294365b/WqX1ZSPyoB.json" width="500"/>
+  <img src="https://media4.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif?cid=790b7611ow0d3z9pmz3mqebtpmfl0kgff83i2c0z5ixh4q51&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" alt="Análisis de datos" />
 </p>
 
 
