@@ -81,7 +81,7 @@ Automatización de pruebas, detección de fallas y optimización de tráfico en 
 ### 📫 Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
-- 📧 oswaldo.vasquez.castro@gmail.com
+- 📧 nestor.vasquez@gmail.com
 - 🌐 [www.jitteringenieria.com](https://www.jitteringenieria.com)
 
 ---
