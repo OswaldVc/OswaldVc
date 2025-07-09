@@ -7,8 +7,9 @@
 
 <!-- Animación profesional -->
 <p align="center">
-  <img src="https://lottie.host/f2016a5a-c7db-4cbe-b50e-d6e276c8ccfd/FpUlQUmu8z.json" width="500"/>
+  <img src="https://lottie.host/29f7be83-5eb3-4c33-84a6-249ec294365b/WqX1ZSPyoB.json" width="500"/>
 </p>
+
 
 ---
 
