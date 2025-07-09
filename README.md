@@ -5,6 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=Clyzer&label=Profile%20views&color=0e75b6&style=flat" alt="Clyzer profile views"/>
 </p>
 
+<!-- Animación profesional -->
+<p align="center">
+  <img src="https://media4.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif?cid=790b7611ow0d3z9pmz3mqebtpmfl0kgff83i2c0z5ixh4q51&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" alt="Análisis de datos" />
+</p>
+
 ---
 
 ### 🧩 Sobre mí
